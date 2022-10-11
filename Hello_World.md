@@ -44,4 +44,4 @@ We now have our `pico-sdk` along with the environment setup. So, let's move on t
 
   ![Screenshot 2022-10-10 190455](https://user-images.githubusercontent.com/56625259/194970969-9cee78d9-9d07-4ecd-874a-d66427f4bb43.png)
 
-**Congrats!! you have now successfully cross-compiled and run your first C program on the RP2040.**
+***Congrats!! you have now successfully cross-compiled and run your first C program on the RP2040.***

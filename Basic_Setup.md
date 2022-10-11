@@ -62,10 +62,12 @@ repositories don't have the latest version. The steps for acheiving that are as 
     - I use my nvim configuration located in my [Dotfiles](https://github.com/Ruturajn/Dotfiles/tree/main/nvim).
 
 
-### PUTTY
+### PuTTY or MobaXterm
 
-Installing *PUTTY* is relatively very simple, you can just navigate to [PUTTY's Downloads Page](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), and grab
-the `64-bit-msi` installer (assuming you are on a 64-bit system). Then just follow, the guided install, and PUTTY should be setup on your system. 
+- Installing *PuTTY* is relatively very simple, you can just navigate to [PuTTY's Downloads Page](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), and grab
+    the `64-bit-msi` installer (assuming you are on a 64-bit system). Then just follow, the guided install, and PuTTY should be setup on your system.
+- I already have *MobaXterm* setup on my system for accessing *Cadence* on *Biglab*, so I will be using the *PuTTY* built into that as my serial console. To get *MobaXterm*,
+    you can check out the [Downloads](https://mobaxterm.mobatek.net/download.html) page, and install the *Free* version, by following the guided installer.
 
 
 ***This marks the end of our basic setup, going forward we will be using this for programming the RP2040.***
