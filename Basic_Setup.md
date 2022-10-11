@@ -34,6 +34,15 @@ contents, as described in Lab-2 Prelab.
     ```
 - We have now ensured that everything is working perfectly, let's move to installing our text editor.
 
+
+## Terminal
+
+- I will be using the `Alacritty` terminal application as a part of my setup. *Alacritty* is written in Rust, and is extremely fast. You can grab the
+    *Windows* installer (i.e. `*.msi` file) for Alacritty from it's [Releases](https://github.com/alacritty/alacritty/releases) page on the GitHub repo,
+    and follow the guided installer, for getting it set up.
+- I will be using my alacritty config, located in my [Dotfiles](https://github.com/Ruturajn/Dotfiles/tree/main/alacritty).
+
+
 ## Neovim
 
 - Before we proceed to install packages, let us install the `build-essential` package available in the official
