@@ -47,7 +47,7 @@ $ sudo apt install build-essential
 repositories don't have the latest version. The steps for acheiving that are as follows ([link to the *Releases* page for neovim](https://github.com/neovim/neovim/releases)),
     - Grab the asset file named `nvim-linux64.deb`.
     - Download the file to your WSL with (get the link address to the file, by right cliking it, or you
-        can directly download it using the windows GUI, which should ideally place the file under `C:/Users/<user_name>`/Downloads`.
+        can directly download it using the windows GUI, which should ideally place the file under `C:/Users/<user_name>/Downloads`.
         You can then navigate to that directory through WSL with `$ cd /mnt/c/<user_name>/Downloads`, if you choose the GUI option,
         ignore the command below),
 
