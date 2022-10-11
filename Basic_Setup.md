@@ -5,7 +5,7 @@ experience, so I will be setting that up, along with *Neovim* as my text editor.
 a modern, fast, and lightweight *vim* based text editor (can be configured with `vimscript` or
 `lua`).
 
-### WSL
+## WSL
 
 - Navigate to `Turn Windows Features On or Off`, by searching for it, in the start bar.
 - Enable the option `Windows Subsystem for Linux`, in that window.
@@ -34,7 +34,7 @@ contents, as described in Lab-2 Prelab.
     ```
 - We have now ensured that everything is working perfectly, let's move to installing our text editor.
 
-### Neovim
+## Neovim
 
 - Before we proceed to install packages, let us install the `build-essential` package available in the official
 Ubuntu's repository, to install as the name suggests all the packages that are essential for building and compiling
@@ -62,7 +62,7 @@ repositories don't have the latest version. The steps for acheiving that are as 
     - I use my nvim configuration located in my [Dotfiles](https://github.com/Ruturajn/Dotfiles/tree/main/nvim).
 
 
-### PuTTY or MobaXterm
+## PuTTY or MobaXterm
 
 - Installing *PuTTY* is relatively very simple, you can just navigate to [PuTTY's Downloads Page](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html), and grab
     the `64-bit-msi` installer (assuming you are on a 64-bit system). Then just follow, the guided install, and PuTTY should be setup on your system.
